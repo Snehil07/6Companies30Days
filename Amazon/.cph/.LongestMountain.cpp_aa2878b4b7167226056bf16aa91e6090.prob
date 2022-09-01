@@ -1,0 +1,1 @@
+{"name":"Local: LongestMountain","url":"d:\\6CompaniesIn30Days\\Amazon\\LongestMountain.cpp","tests":[{"id":1662009770209,"input":"1\n7\n2 1 4 7 3 2 5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\6CompaniesIn30Days\\Amazon\\LongestMountain.cpp","group":"local","local":true}
