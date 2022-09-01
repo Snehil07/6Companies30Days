@@ -1,0 +1,1 @@
+{"name":"Local: StockBuySellKTransactions","url":"d:\\6CompaniesIn30Days\\Amazon\\StockBuySellKTransactions.cpp","tests":[{"id":1662009058522,"input":"1\n2\n6\n10 22 5 75 65 80","output":"87"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\6CompaniesIn30Days\\Amazon\\StockBuySellKTransactions.cpp","group":"local","local":true}
