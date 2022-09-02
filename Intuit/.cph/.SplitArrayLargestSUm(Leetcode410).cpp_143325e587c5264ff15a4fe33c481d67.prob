@@ -1,0 +1,1 @@
+{"name":"Local: SplitArrayLargestSUm(Leetcode410)","url":"d:\\6CompaniesIn30Days\\Intuit\\SplitArrayLargestSUm(Leetcode410).cpp","tests":[{"id":1662098640298,"input":"1\n5 2\n7 2 5 10 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\6CompaniesIn30Days\\Intuit\\SplitArrayLargestSUm(Leetcode410).cpp","group":"local","local":true}
