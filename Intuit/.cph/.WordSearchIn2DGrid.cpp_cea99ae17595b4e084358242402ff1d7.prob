@@ -1,0 +1,1 @@
+{"name":"Local: WordSearchIn2DGrid","url":"d:\\6CompaniesIn30Days\\Intuit\\WordSearchIn2DGrid.cpp","tests":[{"id":1662209995292,"input":"1\n3 4\na g b c \nq e e l\ng b k s\ngeeks","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\6CompaniesIn30Days\\Intuit\\WordSearchIn2DGrid.cpp","group":"local","local":true}
