@@ -1,0 +1,1 @@
+{"name":"Local: GCDofTwoStrings","url":"d:\\6CompaniesIn30Days\\Goldman Sachs\\GCDofTwoStrings.cpp","tests":[{"id":1662193665333,"input":"1\nabababab\nabab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\6CompaniesIn30Days\\Goldman Sachs\\GCDofTwoStrings.cpp","group":"local","local":true}
