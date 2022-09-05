@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\6CompaniesIn30Days\\Microsoft\\4. SpiralTraversalofMatrix.cpp","tests":[{"id":1662362035891,"input":"1\n4 4\n1 2 3 4\n5 6 7 8\n9 10 11 12\n13 14 15 16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\6CompaniesIn30Days\\Microsoft\\4. SpiralTraversalofMatrix.cpp","group":"local","local":true}
